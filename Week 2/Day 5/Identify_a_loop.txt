@@ -1,0 +1,2 @@
+The XP and leveling loop is a reinforcing loop.
+Gaining XP increases power, which makes gaining more XP easier.

@@ -1,0 +1,7 @@
+Wood → Planks
+
+Iron Ore → Iron Bars
+
+Leather → Armor
+
+Herbs → Potions

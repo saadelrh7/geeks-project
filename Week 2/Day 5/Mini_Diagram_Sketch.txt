@@ -1,0 +1,3 @@
+Source: healing items.
+Stock: current health.
+Sink: damage.
