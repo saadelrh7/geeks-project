@@ -1,0 +1,2 @@
+In GTA V, players used physics to launch cars into the air.
+This happened because the physics and collision systems interacted in unexpected ways.

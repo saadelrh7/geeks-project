@@ -1,0 +1,2 @@
+Increase enemy difficulty as the player levels up.
+This slows progression and prevents players from becoming overpowered too quickly.
