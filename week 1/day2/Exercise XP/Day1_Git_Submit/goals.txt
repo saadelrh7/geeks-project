@@ -1,0 +1,2 @@
+- Learn git init\n- Learn add/commit\n- Learn git log
+---------------
